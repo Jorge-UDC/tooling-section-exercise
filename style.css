@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100wh;
+    width: 100wh;
+    overflow: hidden;
+
+  }
+
+#viewer-container {
+    height: 100wh;
+    width: 100wh;
+    overflow: hidden;
+}
